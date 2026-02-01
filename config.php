@@ -5,9 +5,9 @@
 
 return [
     'api' => [
-        'base_url'    => 'https://flowix.web.id', // [cite: 3]
-        'api_key'     => 'sk-261a4c7c-dbdcfdc60cc0-9594e1b5f137', // Ganti dengan API Key Anda
-        'merchant_id' => 'MID-DAN8385', // [cite: 4]
+        'base_url'    => 'https://flowix.web.id', // API Base URL
+        'api_key'     => 'sk-xxx', // Ganti dengan API Key Anda
+        'merchant_id' => 'MID-xxx', //Ganti dengan Merchant ID Anda
     ],
     'product' => [
         'title'        => 'Script Bot WhatsApp AI',
@@ -18,7 +18,7 @@ return [
     ],
 ];
 
-/**
+/*
 ================================================================================
           PERINGATAN HAK CIPTA DAN PERJANJIAN LISENSI KOMERSIAL
 ================================================================================
@@ -113,4 +113,4 @@ PELANGGARAN AKAN DITINDAK TEGAS TANPA TOLERANSI.
 
 PT INOVIXA TECHNOLOGIES SOLUTION
 Est. 2026
-*/
+**/
